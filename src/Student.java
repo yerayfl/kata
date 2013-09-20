@@ -22,19 +22,13 @@ public class Student {
     }
 
 
-    public int getAge() {
-        
-    Date today = new Date();
-    long n = today.getTime()- this.getBirthDate().getTime(); 
-    
-    return (int) n; 
+   
        
  
-    
-    
+
             
 
-                }
+                
             
     
 }
